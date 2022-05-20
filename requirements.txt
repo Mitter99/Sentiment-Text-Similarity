@@ -1,0 +1,11 @@
+numpy
+pandas
+Flask
+joblib
+sentence-transformers
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+sklearn
